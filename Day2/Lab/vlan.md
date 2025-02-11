@@ -1,6 +1,4 @@
 
-# Content of the Markdown file
-markdown_content = """# Network Topology with VLANs and Trunking
 
 This document outlines the configuration of a simple network topology using two Cisco Layer 2 switches, VLANs, trunking, and end devices.
 
